@@ -1,0 +1,8 @@
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/lumoshive-academy/lumo-dev v1.0.0 h1:22vo2ZAJx/61pR0yTt86M2JnJbUc7SKzqzgJw9u11rM=
+github.com/lumoshive-academy/lumo-dev v1.0.0/go.mod h1:edl5OylSLpK9u9QxObQwi6rp4PU11x3+M1WNgRLzV+E=
+github.com/train-do/tes-package v1.0.0 h1:psEZnsB9oKs2ixQYw3ur3rKwXH8KhpCorrfnQGWXb3E=
+github.com/train-do/tes-package v1.0.0/go.mod h1:969zXopi7S8FOeAtpG+Nw3m2wZWzgvp53/PlH5UqVac=
+github.com/train-do/tes-package v1.0.1 h1:sulsjOB3tGnZnmrtLk/C8H2OY2zHBHKa330IAtjgONU=
+github.com/train-do/tes-package v1.0.1/go.mod h1:969zXopi7S8FOeAtpG+Nw3m2wZWzgvp53/PlH5UqVac=
